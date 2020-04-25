@@ -4,7 +4,7 @@ Vocal Utility For Microsoft Windows System Information
 ![Image of intro](https://github.com/manushadilan/Guild-Girl/blob/master/Banner.JPG)
 
 
-* Guild Girl is a simple tool that will tell you your Microsoft Windows system infromation in cute voice.
+* Guild Girl is a simple tool that will tell you your Microsoft Windows system information  in cute voice.
 
 * Also provide a text file on system informations.
 
