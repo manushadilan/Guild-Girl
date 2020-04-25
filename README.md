@@ -31,7 +31,7 @@ $ pip3 install -r requirements.txt
 ```
 python Guild Girl.py
 ```
-* [Tutorial]()
+* [Video](https://youtu.be/Ka-Tm0GsVyA)
 
 ### Improvements
 
