@@ -36,7 +36,7 @@ python Guild Girl.py
 ### Improvements
 
 * You can try to improve this to work with Linux too.
-* Try to add more system informations gatherings.
+* Can add more system informations gatherings.
 
 
 ### Support & Contributions
