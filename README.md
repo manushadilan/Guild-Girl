@@ -1,4 +1,4 @@
-# Guild-Girl
+# Guild Girl
 Vocal Utility For Microsoft Windows System Information
 
 ![Image of intro](https://github.com/manushadilan/Guild-Girl/blob/master/Banner.JPG)
